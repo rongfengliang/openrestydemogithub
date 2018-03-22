@@ -50,5 +50,4 @@ Connection: keep-alive
 
 ```bash
 just see
-http://git.yonyou.com/docker/mysqlinitdocker
-```
+https://github.com/rongfengliang/golangmysql-docker```
